@@ -5,7 +5,8 @@ This repository contains two practical exercises focusing on key machine learnin
 ---
 # 🔍 What is K-Means Clustering?
 
-!(Elbow%20Method%20Plot.PNG)
+![K-Means Cluster Analysis](k-means-cluster-analysis.png)
+
 K-Means is an unsupervised machine learning algorithm used to group similar data points into K distinct clusters. It works by:
 
 - Randomly initializing K centroids.
