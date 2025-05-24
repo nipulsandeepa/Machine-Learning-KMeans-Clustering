@@ -3,6 +3,20 @@
 This repository contains two practical exercises focusing on key machine learning techniques: **KMeans Clustering** and **Decision Tree Classification**, performed using Python in Google Colab.
 
 ---
+# 🔍 What is K-Means Clustering?
+
+!(Elbow%20Method%20Plot.PNG)
+K-Means is an unsupervised machine learning algorithm used to group similar data points into K distinct clusters. It works by:
+
+- Randomly initializing K centroids.
+
+- Assigning each data point to the nearest centroid.
+
+- Updating the centroids based on the average of points in each cluster.
+
+- Repeating steps 2–3 until convergence (i.e., when cluster assignments no longer change significantly).
+
+It is often used for customer segmentation, pattern recognition, and data compression.
 
 ## 🚀 What You’ll Learn
 
