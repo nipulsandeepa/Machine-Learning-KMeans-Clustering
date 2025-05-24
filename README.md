@@ -62,5 +62,15 @@ This task illustrates how to apply a Decision Tree classifier to predict outcome
 
 ## 📈 Output Preview
 
+### Elbow Method Plot
+![Elbow Method Plot](Elbow%20Method%20Plot.PNG)
+
+### Cluster Visualization
+![Cluster Visualization](Cluster%20Visualization.PNG)
+
+### Confusion Matrix
+![Confusion Matrix](Confusion%20Matrix.PNG)
+
+
 
 
