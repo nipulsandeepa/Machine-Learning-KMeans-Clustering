@@ -7,6 +7,8 @@ This repository contains two practical exercises focusing on key machine learnin
 
 ![K-Means Cluster Analysis](k-means-cluster-analysis.png)
 
+
+
 K-Means is an unsupervised machine learning algorithm used to group similar data points into K distinct clusters. It works by:
 
 - Randomly initializing K centroids.
@@ -43,6 +45,37 @@ This task demonstrates how to perform clustering using the KMeans algorithm on t
 10. Displayed cluster centroids on the scatter plot
 
 ---
+
+## 🌳 What is a Decision Tree?
+
+![Decision Tree Visualization](Decision_tree.PNG)
+
+A **Decision Tree** is a supervised machine learning algorithm used for classification and regression tasks. It splits the dataset into branches based on feature values, forming a tree-like structure where:
+
+- Each internal node represents a decision based on a feature.
+- Each branch represents the outcome of that decision.
+- Each leaf node represents a final class label (for classification).
+
+It’s popular for its interpretability and ability to handle both numerical and categorical data.
+
+---
+
+## 📊 What is a Confusion Matrix?
+
+A **Confusion Matrix** is a performance evaluation tool used in classification tasks. It shows how well the model's predicted labels match the actual labels. It contains:
+
+- **True Positives (TP)**: Correctly predicted positive cases  
+- **True Negatives (TN)**: Correctly predicted negative cases  
+- **False Positives (FP)**: Incorrectly predicted positive cases  
+- **False Negatives (FN)**: Incorrectly predicted negative cases
+
+From this, you can derive key metrics such as:
+
+- **Accuracy** = (TP + TN) / (TP + TN + FP + FN)  
+- **Precision** = TP / (TP + FP)  
+- **Recall** = TP / (TP + FN)  
+- **F1 Score** = 2 * (Precision * Recall) / (Precision + Recall)
+
 
 ## 📌 Question 02: Decision Tree Classification (Supervised Learning)
 
